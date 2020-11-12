@@ -1,1 +1,1 @@
-# harvest-app
+# mern-skeleton
